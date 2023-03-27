@@ -32,7 +32,7 @@
     "responses": ["Please provide us your complaint in order to assist you", "Please mention your complaint, we will reach you and sorry for any inconvenience caused"]
     },
     {"tag": "mentalhealth",
-    "patterns": ["I want to ask regarding my current status on mental health", "How to over come stress and improve mental health", "How to overcome anxiety and improve mental health"],
+    "patterns": ["I want to ask regarding my current status on mentalhealth", "How to over come stress and improve mentalhealth", "How to overcome anxiety and improve mentalhealth"],
     "responses": ["Please provide us the test documents", "Remedies will be told to you with medicines attached like crocin"]
     }
 ]
